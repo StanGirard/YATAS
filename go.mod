@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/fatih/color v1.15.0
 	github.com/google/go-github/v35 v35.3.0
-	github.com/hashicorp/go-hclog v1.5.0
+	github.com/hashicorp/go-hclog v1.6.3
 	github.com/hashicorp/go-plugin v1.4.10
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/stretchr/testify v1.7.5
