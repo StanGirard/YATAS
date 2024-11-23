@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/go-hclog v1.5.0
 	github.com/hashicorp/go-plugin v1.4.10
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/stretchr/testify v1.7.5
+	github.com/stretchr/testify v1.10.0
 	golang.org/x/oauth2 v0.7.0
 	gopkg.in/yaml.v3 v3.0.1
 )
